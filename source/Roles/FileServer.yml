@@ -10,6 +10,8 @@ FilesAndFolders:
   Items:
     - DestinationPath: C:\Test
       Type: Directory
+    - DestinationPath: C:\Test2
+      Type: Directory
     - DestinationPath: C:\Test\Test1File1.txt
       Type: File
       Contents: Some test data
